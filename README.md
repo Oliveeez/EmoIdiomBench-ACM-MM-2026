@@ -81,7 +81,7 @@ EmoIdiomBench-ACM-MM-2026/
 | Homophonic rate | 88.59% | N/A |
 | Image variants / idiom | 5 (Base ×1, Layout ×2, Guided ×2) | 1 (Base only) |
 | Total images | 16,665 | 1,210 |
-| **Total** | **4,543 idioms / 17,875 images** | |
+| **Total** | **4,543 idioms / 17,875 images** |
 
 ## 🔧 Data Format
 
