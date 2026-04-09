@@ -1,0 +1,17 @@
+{
+  "task": "ch",
+  "total": 3333,
+  "success": 3333,
+  "skipped_existing": 3313,
+  "newly_generated": 20,
+  "failed": 0,
+  "elapsed_sec": 14.1,
+  "source_stats": {
+    "DiskCache": 71,
+    "Twemoji": 3,
+    "NotoEmoji": 1
+  },
+  "unresolved_emoji_count": 0,
+  "unresolved_emojis": {},
+  "failures": []
+}

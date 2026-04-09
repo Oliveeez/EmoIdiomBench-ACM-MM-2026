@@ -1,0 +1,17 @@
+{
+  "task": "en",
+  "total": 1210,
+  "success": 1210,
+  "skipped_existing": 0,
+  "newly_generated": 1210,
+  "failed": 0,
+  "elapsed_sec": 48.3,
+  "source_stats": {
+    "Twemoji": 619,
+    "DiskCache": 2673,
+    "NotoEmoji": 8
+  },
+  "unresolved_emoji_count": 0,
+  "unresolved_emojis": {},
+  "failures": []
+}

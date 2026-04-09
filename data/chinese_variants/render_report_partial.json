@@ -1,0 +1,12 @@
+{
+  "task": "ch",
+  "completed": 3300,
+  "success": 3300,
+  "failed": 0,
+  "source_stats": {
+    "DiskCache": 71,
+    "Twemoji": 3
+  },
+  "unresolved_emojis": {},
+  "recent_failures": []
+}

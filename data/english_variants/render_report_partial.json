@@ -1,0 +1,13 @@
+{
+  "task": "en",
+  "completed": 1200,
+  "success": 1200,
+  "failed": 0,
+  "source_stats": {
+    "Twemoji": 615,
+    "DiskCache": 2655,
+    "NotoEmoji": 8
+  },
+  "unresolved_emojis": {},
+  "recent_failures": []
+}
