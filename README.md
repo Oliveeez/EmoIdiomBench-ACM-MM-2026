@@ -113,7 +113,7 @@ Each entry in the Chinese JSON annotation file follows this schema:
 | `idiom_index` | Unique integer ID for the idiom |
 | `idiom` | Target four-character Chinese idiom |
 | `emoji_rep` | List of emoji representation variants. Each contains an `index` (variant ID), `emoji_set` (the four rendered emojis), and `homophonic_num` (number of homophonic substitutions in this variant) |
-| `distractors` | Four MC options (including the correct answer) for the multiple-choice setting |
+| `distractors` | Four MC options for the multiple-choice setting |
 
 The corresponding images are stored under `data/chinese_variants/{idiom_index}_{idiom}/{variant_index}/` with Base, Layout, and Guided sub-files as described in the repository structure above.
 
