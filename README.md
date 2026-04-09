@@ -5,10 +5,12 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Oliveeez/EmoIdiomBench-ACM-MM-2026/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg" alt="License"></a>
+  </a>
+  <a href="https://github.com/Oliveeez/EmoIdiomBench-ACM-MM-2026/tree/main/data/raw_data">
   <img src="https://img.shields.io/badge/Idioms-4%2C543-green.svg" alt="Idioms">
+  <a href="https://github.com/Oliveeez/EmoIdiomBench-ACM-MM-2026/tree/main/data">
   <img src="https://img.shields.io/badge/Images-17%2C875-orange.svg" alt="Images">
-  <img src="https://img.shields.io/badge/ACM%20MM%202026-Dataset%20Track-purple.svg" alt="ACM MM 2026">
+  <a href="https://2026.acmmm.org/"><img src="https://img.shields.io/badge/ACM%20MM%202026-Dataset%20Track-purple.svg" alt="ACM MM 2026">
 </p>
 
 ---
