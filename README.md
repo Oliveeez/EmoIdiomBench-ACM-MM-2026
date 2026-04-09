@@ -86,7 +86,7 @@ EmoIdiomBench-ACM-MM-2026/
 Each entry in the Chinese JSON annotation file follows this schema:
 
 ```json
-// data/raw_data/chinese_idiom_with_distractors_index1.json
+# data/raw_data/chinese_idiom_with_distractors_index1.json
 {
     "idiom_index": 1557,
     "idiom": "怒火中烧",
@@ -116,8 +116,8 @@ Each entry in the Chinese JSON annotation file follows this schema:
 The corresponding images are stored under `data/chinese_variants/{idiom_index}_{idiom}/{variant_index}/` with Base, Layout, and Guided sub-files as described in the repository structure above.
 
 The English JSON annotation file follows a similar schema:
-
 ```json
+# data/raw_data/english_Idiom_with_distractors.json
 {
     "idiom_index": 3,
     "idiom": "swan song",
