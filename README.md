@@ -73,15 +73,51 @@ EmoIdiomBench-ACM-MM-2026/
 
 ## 📊 Dataset Statistics
 
-| | Chinese | English |
-|---|---|---|
-| Idioms | 3,333 | 1,210 |
-| Emojis per instance | 4 (fixed) | 2–10 (avg. 2.79) |
-| Mapping types | Semantic + Homophonic | Semantic + Metaphor |
-| Homophonic rate | 88.59% | N/A |
-| Image variants / idiom | 5 (Base ×1, Layout ×2, Guided ×2) | 1 (Base only) |
-| Total images | 16,665 | 1,210 |
-| **Total** | **4,543 idioms / 17,875 images** |
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th>Chinese</th>
+      <th>English</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Idioms</td>
+      <td>3,333</td>
+      <td>1,210</td>
+    </tr>
+    <tr>
+      <td>Emojis per instance</td>
+      <td>4 (fixed)</td>
+      <td>2–10 (avg. 2.79)</td>
+    </tr>
+    <tr>
+      <td>Mapping types</td>
+      <td>Semantic + Homophonic</td>
+      <td>Semantic + Metaphor</td>
+    </tr>
+    <tr>
+      <td>Homophonic rate</td>
+      <td>88.59%</td>
+      <td>N/A</td>
+    </tr>
+    <tr>
+      <td>Image variants / idiom</td>
+      <td>5 (Base ×1, Layout ×2, Guided ×2)</td>
+      <td>1 (Base only)</td>
+    </tr>
+    <tr>
+      <td>Total images</td>
+      <td>16,665</td>
+      <td>1,210</td>
+    </tr>
+    <tr>
+      <td><strong>Total</strong></td>
+      <td colspan="2"><strong>4,543 idioms / 17,875 images</strong></td>
+    </tr>
+  </tbody>
+</table>
 
 ## 🔧 Data Format
 
