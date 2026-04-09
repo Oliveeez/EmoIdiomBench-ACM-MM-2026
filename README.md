@@ -1,4 +1,4 @@
-<h1 align="center">EmoIdiomBench</h1>
+<h1 align="center">🎨 EmoIdiomBench 🔖</h1>
 
 <p align="center">
   <strong>A Bilingual Benchmark for Figurative Reasoning and Spatial Visual Parsing in MLLMs</strong>
@@ -6,7 +6,6 @@
 
 <p align="center">
   <a href="https://github.com/Oliveeez/EmoIdiomBench-ACM-MM-2026/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg" alt="License"></a>
-  <a href="README_zh.md"><img src="https://img.shields.io/badge/简体中文-Click-blue.svg" alt="中文"></a>
   <img src="https://img.shields.io/badge/Idioms-4%2C543-green.svg" alt="Idioms">
   <img src="https://img.shields.io/badge/Images-17%2C875-orange.svg" alt="Images">
   <img src="https://img.shields.io/badge/ACM%20MM%202026-Dataset%20Track-purple.svg" alt="ACM MM 2026">
@@ -140,28 +139,13 @@ The corresponding images are stored under `data/english_variants/{idiom_index}_{
 
 ## 📈 Benchmark Results
 
-### Main Results (Accuracy %)
-
-| Model | CH OE-Base | CH OE-Layout | CH OE-Guided | CH MC | EN OE-Strict | EN OE-Match | EN MC |
-|---|---|---|---|---|---|---|---|
-| **GPT-o3** | **60.16** | **57.93** | **59.47** | **98.20** | **56.59** | **60.71** | **96.45** |
-| Gemini-2.5-Pro | 33.17 | 29.13 | 31.74 | 95.04 | 46.15 | 52.03 | 94.87 |
-| GPT-5.4 | 9.78 | 8.50 | 9.67 | 66.85 | 23.65 | 27.58 | 88.84 |
-| Claude-Sonnet-4.5 | 9.27 | 8.04 | 8.16 | 61.75 | 23.13 | 27.49 | 81.07 |
-| GPT-4o | 7.50 | 5.46 | 6.43 | 66.43 | 23.06 | 27.85 | 86.03 |
-| Qwen2.5-VL (72B) | 6.81 | 6.05 | 5.87 | 66.10 | 7.92 | 10.60 | 81.85 |
-| InternVL3 (38B) | 5.87 | 4.84 | 4.51 | 62.72 | 7.28 | 9.49 | 76.87 |
-| MiniCPM-V 4.5 (8B) | 3.95 | 3.11 | 2.94 | 51.00 | 6.22 | 8.16 | 68.38 |
-| Qwen3-VL (8B) | 3.88 | 3.53 | 3.79 | 42.35 | 1.88 | 2.54 | 47.24 |
-| Qwen2.5-VL (7B) | 3.82 | 2.85 | 2.33 | 52.71 | 4.58 | 5.81 | 65.84 |
-| InternVL3 (8B) | 2.26 | 1.21 | 1.48 | 49.03 | 4.01 | 5.48 | 67.41 |
-| Llama-3.2-V (11B) | 1.49 | 0.92 | 0.76 | 32.28 | 3.47 | 4.63 | 40.53 |
-| | | | | | | | |
-| Human (Avg.) | 69.25 | – | – | 97.63 | 65.81 | 71.06 | 96.87 |
-| Human (Best) | 80.12 | – | – | 99.74 | 78.25 | 83.95 | 98.21 |
+### Main Results
+<p align="center">
+  <img src="images/radar.png" alt="Radar Chart" width="80%"/>
+</p>
 
 <p align="center">
-  <img src="images/radar.png" alt="Radar Chart" width="55%"/>
+  <img src="images/table3.png" alt="Table 3: Main Results" width="95%"/>
 </p>
 
 ### Key Findings
